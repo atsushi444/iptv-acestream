@@ -79,5 +79,11 @@ acestream://06dd8c60b60d02b792d75fe6b4570284275bc1e7
 acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
 #EXTINF:-1 group-title="Sprots",Vamos HD
 acestream://f9ab54a6e9180c0d58eceb165146eb0994d055b8
+#EXTINF:-1 group-title="Cinema",HBO
+acestream://6a874f29ed839896f5272c9263abc399f00c417e
+#EXTINF:-1 group-title="Sports",Digi Sport 1
+acestream://4a4294c72188e91e24b8dd9f49246ba8c9307170
+#EXTINF:-1 group-title="Sports",Belarus 5 HD
+acestream://24d8d60fd53e1babb6a9f8d888eddb8ceb390ba6
 
 
