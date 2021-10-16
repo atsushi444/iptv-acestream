@@ -85,5 +85,6 @@ acestream://6a874f29ed839896f5272c9263abc399f00c417e
 acestream://4a4294c72188e91e24b8dd9f49246ba8c9307170
 #EXTINF:-1 group-title="Sports",Belarus 5 HD
 acestream://24d8d60fd53e1babb6a9f8d888eddb8ceb390ba6
-
+#EXTINF:-1 group-title="News",BBC World
+acestream://3263501af13712c849206034a1f5f83bff697392
 
